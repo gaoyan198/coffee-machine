@@ -1,3 +1,3 @@
-print("Bye Worldssssss")
+print("Bye Worldsssssssss")
 
 print("FUCK UKNNBCCBdcdbfvdfsdsdedcdc")
